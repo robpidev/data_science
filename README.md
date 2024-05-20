@@ -8,7 +8,6 @@
 * Autocompletado extención de vscode:
 [instalalo aquí](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-
 * [Python](https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe)
 
 ### 3. Paquetes para el análisis de datos
