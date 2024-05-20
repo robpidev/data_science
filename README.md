@@ -15,6 +15,12 @@
 Se tiene que instalar los quientes paquetes para
 python (En una terminal) escribir los comandos.
 
+Abre vscode
+![Opciones](assets/open_term.png)
+
+Y aqui ejecutarás los siguientes comandos
+![Terminal abierta](assets/term.png)
+
 Pandas
 
 ```shell
