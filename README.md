@@ -51,6 +51,10 @@ Seaborn: Gráficos
 pip install seaborn
 ```
 
+```shell
+pip install Jinja2
+```
+
 ## 2. Descargar el código
 
 Si no usas **git**, etonces descarga este código ```.zip``` y descomprimelo
