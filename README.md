@@ -45,4 +45,9 @@ Si no usas **git**, etonces descarga este código ```.zip``` y descomprimelo
 
 ![Código y data](assets/i1.png)
 
+Luego abre esta carpeta desde vscode
+![Abririr carpeta](assets/i2.png)
+![Seleccionar carpeta](assets/i3.png)
 
+El archivo con el que se va a trabar es el test01.ipynb
+![Archivo a abrir](assets/i4.png)
