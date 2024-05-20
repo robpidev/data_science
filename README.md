@@ -21,28 +21,34 @@ Abre vscode
 Y aqui ejecutarás los siguientes comandos
 ![Terminal abierta](assets/term.png)
 
-Pandas
+Pandas: Para leer archivos
 
 ```shell
 pip install pandas
 ```
 
-Numpy
+Numpy: Funciones matmáticas
 
 ```shell
 pip install numpy
 ```
 
-scikit-learn: regresiones
+scikit-learn: Machine learning
 
 ```shell
 pip install scikit-learn
 ```
 
-Matplotlib
+Matplotlib: Gráficos
 
 ```shell
 pip install matplotlib
+```
+
+Seaborn: Gráficos
+
+```shell
+pip install seaborn
 ```
 
 ## 2. Descargar el código
